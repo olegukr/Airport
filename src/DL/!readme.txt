@@ -1,0 +1,1 @@
+• Declare structs for flight information, flights pricelist and passage list
